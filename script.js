@@ -110,7 +110,7 @@ const questions = [
     answers: [ // Array of answer options
       { text: '55', correct: true }, // Correct answer
       { text: '25', correct: false }, // Incorrect answer
-      { text: '44', correct: false }, // Incorrect answer
+      { text: '15', correct: false }, // Incorrect answer
       { text: '15', correct: false } // Incorrect answer
     ]
   },
